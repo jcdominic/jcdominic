@@ -12,7 +12,7 @@ My current focus areas:
 - Systems Administration and Automation
 - Exploring New Projects
 
-  <a href="https://jcdominic.github.io/resume/">View my resume</a>
+  <a href="https://jcdominic.github.io/resume">View my resume</a>
 -----
 
 <!--
