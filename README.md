@@ -11,8 +11,6 @@ My current focus areas:
 - Emerging Technology for Social Good
 - Systems Administration and Automation
 - Exploring New Projects
-
-  <a href="https://jcdominic.github.io/resume">View my resume</a>
 -----
 
 <!--
